@@ -1,2 +1,2 @@
 # whl-team-logos
-whl team logo database
+Contains logos for all 22 WHL teams
